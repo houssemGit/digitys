@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author ounissi
  */
 public class Myster {
-
+	//another change
     /**
      * @param args the command line arguments
      */
